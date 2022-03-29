@@ -1,1 +1,1 @@
-This file show info about project
+Author Dvukhglavov Dmytro
